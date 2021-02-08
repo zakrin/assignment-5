@@ -1,0 +1,23 @@
+.search-result{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);    
+}
+
+.search-result img{
+    width:180px;
+}
+h6 {
+   padding: 10px;
+
+}
+
+#foodRcp img{
+
+    width: 400px;
+
+}
+
+#foodRcp {
+
+    text-align: center;
+}
